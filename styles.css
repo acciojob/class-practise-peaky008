@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
-p:nth-child(odd){
-	color:#00f;
-	background:#eee;
-	font-size:20px;
+ 
+	.selector{color:#00f;
+	background:#eee; 
+/* font-size:20px; */
 }
